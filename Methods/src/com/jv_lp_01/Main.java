@@ -57,9 +57,12 @@ public class Main {
         } else if(score >= 500){
             //return 2;
             ret = 2;
-        } else if(score >= 100){
+        } else if(score >= 100) /* artificial typo ; */{
             ret = 3;
             //return 3;
+        }
+        {
+            char testChar = 'd';
         }
             // else {
             //return 4;
