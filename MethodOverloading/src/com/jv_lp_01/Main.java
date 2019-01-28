@@ -37,14 +37,16 @@ public class Main {
 //    public static void calculcateScore(){
 //        System.out.println(" No Player  , no player score ");
 //
+//
 //    }
 
-    public static int calcFeetAndInchesToCentimeters(double feet, double inches){
+    public static double calcFeetAndInchesToCentimeters(double feet, double inches){
         int errCode = -1;
         if(feet < 0 || inches < 0 || inches > 12){
             return errCode;
         }
 
+        return feet;
     }
 
     /*
