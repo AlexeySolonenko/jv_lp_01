@@ -77,6 +77,15 @@ public class Main {
             System.out.println("Movie #"+ i+ ": "+ movie.getName()  + "\n" +
                     "Plot: " + movie.plot() + "\n");
         }
+        System.out.println("Random cars");
+
+        for (int  i = 1; i < 11; i++){
+            Car car = randomCar();
+            System.out.println("Car #"+ i+ ": "+ car.getName()  + "\n" +
+                    "Start engine: " + car.startEngine() + "\n"+
+                    "Accelerate: " + car.accelerate() + "\n"+
+                    "Brake: " + car.brake() + "\n");
+        }
     }
 
     public static Movie randomMovie() {
@@ -97,5 +106,20 @@ public class Main {
                 return null;
         }
 
+    }
+
+    public static Car randomCar(){
+        int randomNumber = (int) (Math.random() * 3 + 1);
+        System.out.println("Random number generated was: " + randomNumber);
+        switch (randomNumber) {
+            case 1:
+                return new Jetta(4,"Jetta",true);
+            case 2:
+                return new Civic(4,"Civic",true);
+            case 3:
+                return new AbandonedCar(12,"Abandoned",false);
+            default:
+                return null;
+        }
     }
 }
