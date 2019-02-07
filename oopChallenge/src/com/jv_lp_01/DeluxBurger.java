@@ -1,29 +1,33 @@
 package com.jv_lp_01;
 
-public class DeluxBurger extends BaseHamburger {
+public class DeluxBurger extends RootHamburger {
 
-    /**
-     * Has no public methods to set extra additions
-     * Chips and Drinks are initiated in the system separately
-     *
-     * @param rollType
-     * @param price
-     * @param meat
-     */
-    public DeluxBurger(BreadType rollType, double price, boolean meat) {
-        super(rollType, meat, price, "Delux Burger");
-        this.setAddon1(new Chips());
-        this.setAddon1(new Drinks());
+
+    public DeluxBurger(){
+        this(1,1);
     }
 
-    /**
-     *
-     * @param rollType
-     * @param meat
-     */
-    public DeluxBurger(BreadType rollType, boolean meat) {
-        super(rollType, meat, 2.40, "Delux Burger");
-        this.setAddon1(new Chips());
-        this.setAddon1(new Drinks());
+    public DeluxBurger(int drinks, int chips){
+        this(1.25, drinks, chips);
     }
+
+    public DeluxBurger(double price,int drinks, int chips) {
+        this(price, new WhiteBunBread(),drinks,chips);
+    }
+
+    public DeluxBurger(double price,BreadType rollType,int drinks, int chips) {
+        this(price, 1.50, rollType, drinks, chips);
+    }
+
+    public DeluxBurger(double price, double meatPrice,BreadType rollType,int drinks, int chips) {
+        this(price, true,meatPrice, rollType, drinks, chips);
+    }
+
+    public DeluxBurger(double price, boolean meat, double meatPrice,  BreadType rollType,int drinks, int chips) {
+        super(price, false, meat, meatPrice, "Delux Burger", rollType);
+        super.getExtrasBundle().addExtras(new Drinks(drinks));
+        super.getExtrasBundle().addExtras(new Chips(chips));
+        this.setExtrasLocked(true);
+    }
+
 }

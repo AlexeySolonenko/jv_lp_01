@@ -1,6 +1,6 @@
 package com.jv_lp_01;
 
-public class Cheese extends Addition {
+public class Cheese extends Extra {
 
 
     public Cheese() {
@@ -13,6 +13,6 @@ public class Cheese extends Addition {
 
 
     public Cheese(double price, int timesAmount) {
-        super(Addition.CHEESE, price, timesAmount);
+        super(Extra.CHEESE, price, timesAmount);
     }
 }

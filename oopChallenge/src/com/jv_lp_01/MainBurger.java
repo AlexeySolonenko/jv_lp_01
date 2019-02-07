@@ -1,27 +1,28 @@
 package com.jv_lp_01;
 
-public class MainBurger extends BaseHamburger {
+public class MainBurger extends RootHamburger {
 
     public MainBurger() {
-        this(true);
+        this(0.65);
     }
 
-    public MainBurger(boolean meat) {
-        this(new WhiteBunBread(), meat);
+    public MainBurger(double price) {
+        this(price, new WhiteBunBread());
     }
 
 
-    public MainBurger(BreadType rollType, boolean meat) {
-        this(rollType, meat, 1.00, "Smart Choice Burger ");
+    public MainBurger(double price, BreadType rollType) {
+        this(price, 1.50,rollType);
     }
 
-    public MainBurger(BreadType rollType, boolean meat, String name) {
-        this(rollType, meat, 1.00, name);
+    public MainBurger(double price, double meatPrice, BreadType rollType) {
+        this(price, true,meatPrice,rollType);
     }
 
-    public MainBurger(BreadType rollType, boolean meat, double price, String name) {
-        super(rollType, meat, price, name);
+    public MainBurger(double price, boolean meat, double meatPrice,BreadType rollType) {
+        super(price, false, meat, meatPrice, "Smart Choise Burger",rollType);
+        /* default, can be overriden if required  */
+        super.getExtrasBundle().setMaxExtras(4);
     }
-
 
 }

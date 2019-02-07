@@ -1,6 +1,6 @@
 package com.jv_lp_01;
 
-public class Tomato extends Addition {
+public class Tomato extends Extra {
 
     public Tomato() {
         this(1);
@@ -11,6 +11,6 @@ public class Tomato extends Addition {
     }
 
     public Tomato(double price, int timesAmount) {
-        super(Addition.TOMATO, price, timesAmount);
+        super(Extra.TOMATO, price, timesAmount);
     }
 }

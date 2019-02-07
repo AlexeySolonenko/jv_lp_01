@@ -1,47 +1,34 @@
 package com.jv_lp_01;
 
-public class HealthyBurger extends BaseHamburger {
+public class HealthyBurger extends RootHamburger {
 
+    /* sad truth, healthy gets charged */
     public static final double DEFAULT_PRICE = 2.00;
 
-    public HealthyBurger(BreadType rollType, boolean meat, String name) {
-        super(rollType, meat, HealthyBurger.DEFAULT_PRICE, name);
+
+    public HealthyBurger( ) {
+        this(new Cheese());
     }
 
-    public HealthyBurger(BreadType rollType, boolean meat, double price, String name) {
-        super(rollType, meat, price, name);
+    public HealthyBurger(Extra extra2 ) {
+        this(new Drinks(), extra2);
     }
 
-    public HealthyBurger(BreadType rollType, boolean meat, double price, String name, Addition addon1, Addition addon2) {
-        super(rollType, meat, price, name);
-        this.setAddon1(addon1);
-        this.setAddon2(addon2);
+    public HealthyBurger(Extra extra1, Extra extra2 ) {
+        this(HealthyBurger.DEFAULT_PRICE, extra1, extra2);
     }
 
-    public HealthyBurger(BreadType rollType, boolean meat, String name, Addition addon1, Addition addon2) {
-        super(rollType, meat, HealthyBurger.DEFAULT_PRICE,name);
-        this.setAddon1(addon1);
-        this.setAddon2(addon2);
+    public HealthyBurger(double price, Extra extra1, Extra extra2) {
+        this(price,  1.50, extra1, extra2);
     }
 
-    /* Here we are making 4 extras publicly available for addition */
-    @Override
-    public void setAddon3(Addition addon3) {
-        super.setAddon3(addon3);
+    public HealthyBurger(double price,  double meatPrice, Extra extra1, Extra extra2) {
+        this(price, true, meatPrice, extra1, extra2);
     }
 
-    @Override
-    public void setAddon4(Addition addon4) {
-        super.setAddon3(addon4);
-    }
-
-    @Override
-    public void setAddon5(Addition addon5) {
-        super.setAddon3(addon5);
-    }
-
-    @Override
-    public void setAddon6(Addition addon6) {
-        super.setAddon3(addon6);
+    public HealthyBurger(double price,  boolean meat, double meatPrice, Extra extra1, Extra extra2) {
+        super(price, false, meat, meatPrice, "Healthy Burger", new BrownRyeBread());
+        super.getExtrasBundle().addExtras(extra1);
+        super.getExtrasBundle().addExtras(extra2);
     }
 }
