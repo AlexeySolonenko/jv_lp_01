@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e3fcc4-3687-4e55-8819-5b76844be90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Extra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/AddonBundle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/BaseHamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Carrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Carrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Chips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Chips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/DeluxBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/DeluxBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Drinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Drinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Lettuce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Lettuce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/MainBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/MainBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/Tomato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Tomato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/DeluxBurger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -81,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
-              <caret line="93" column="31" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
+              <caret line="93" column="54" lean-forward="true" selection-start-line="93" selection-start-column="54" selection-end-line="93" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -153,8 +139,8 @@
         <option value="$PROJECT_DIR$/src/com/jv_lp_01/Drinks.java" />
         <option value="$PROJECT_DIR$/src/com/jv_lp_01/Chips.java" />
         <option value="$PROJECT_DIR$/src/com/jv_lp_01/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java" />
         <option value="$PROJECT_DIR$/src/com/jv_lp_01/DeluxBurger.java" />
+        <option value="$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java" />
       </list>
     </option>
   </component>
@@ -199,7 +185,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549563809534" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549564791465" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -339,13 +325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/MainBurger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/ExtrasBundle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -374,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="93" column="31" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -391,7 +363,21 @@
     <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/DeluxBurger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/MainBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/RootHamburger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="93" column="54" lean-forward="true" selection-start-line="93" selection-start-column="54" selection-end-line="93" selection-end-column="54" />
         </state>
       </provider>
     </entry>

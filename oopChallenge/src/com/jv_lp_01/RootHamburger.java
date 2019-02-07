@@ -86,7 +86,7 @@ public class RootHamburger extends PricedItem {
 
     public ExtrasBundle getExtrasBundle() {
         if(this.extrasLocked) return new ExtrasBundle();
-        if(this.extras.getExtras().size() > this.extras.getMaxExtras()) return null;
+        if(this.extras.getExtras().size() > this.extras.getMaxExtras()) return new ExtrasBundle();
 
         return extras;
     }
