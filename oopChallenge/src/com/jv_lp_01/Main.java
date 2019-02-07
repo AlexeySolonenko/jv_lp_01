@@ -17,7 +17,7 @@ public class Main {
 
         DeluxBurger deluxBurger = new DeluxBurger();
         deluxBurger.getFinalPrice();
-        /* this does not work - we cannot add more extras to deluxBurger */
+        /* this works, but extras are not added, deluxBurger Final Price is still same 4.55 */
         deluxBurger.getExtrasBundle().addExtras(new Carrot(1));
         deluxBurger.getExtrasBundle().addExtras(new Carrot(1));
         deluxBurger.getFinalPrice();

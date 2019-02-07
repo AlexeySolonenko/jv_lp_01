@@ -7,7 +7,7 @@ public class Drinks extends Extra {
     }
 
     public Drinks(int timesAmount) {
-        this(0.30,timesAmount);
+        this(0.70,timesAmount);
     }
 
     public Drinks(double price, int timesAmount) {
