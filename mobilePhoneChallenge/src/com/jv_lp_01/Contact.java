@@ -7,6 +7,10 @@ public class Contact {
     private int number;
 
 
+    public Contact() {
+
+    }
+
     public Contact(int id, String name, int number) {
         this.id = id;
         this.name = name;
