@@ -14,14 +14,13 @@ public class Customer {
     }
 
     /**
-     *
      * @param txs
      * @return
      */
     public boolean addTransactions(ArrayList<Double> txs) {
 
         for (int i = 0; i < txs.size(); i++) {
-            if (txs.get(i) > 100.00 || txs.get(i) < 100.00) {
+            if (!validateTx(txs.get(i))) {
                 System.out.println("Amount of one of the transactions in a batch exceeds set limits. Aborting the operation");
                 return false;
             }
@@ -32,13 +31,38 @@ public class Customer {
         return true;
     }
 
-    public void listTransactions(){
+    /**
+     *
+     * @param tx
+     * @return
+     */
+    public boolean addTransactions(Double tx) {
+        if (!validateTx(tx)) {
+            System.out.println("Amount of one of the transactions in a batch exceeds set limits. Aborting the operation");
+            return false;
+        }
+
+        this.txs.add(tx);
+
+        return true;
+    }
+
+    private boolean validateTx(Double tx) {
+        if (tx > 100.00 || tx < 100.00) {
+            return false;
+        }
+        return true;
+    }
+
+    public void listTransactions() {
         txs.forEach((t) -> System.out.println(t));
     }
 
-    public void updateName(){
-        
+    public void updateName() {
+
     }
 
-
+    public int getId() {
+        return id;
+    }
 }
