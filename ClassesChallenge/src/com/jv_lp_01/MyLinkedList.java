@@ -112,6 +112,7 @@ public class MyLinkedList implements ItemList {
 
     @Override
     public void traverse(ListItem root) {
+        /* traversal is resource consuming, linked list is lightweight */
         if(root == null){
             System.out.println("The list is empty");
         } else {
@@ -120,5 +121,9 @@ public class MyLinkedList implements ItemList {
                 root = root.next();
             }
         }
+//        if(root !=null){
+//            System.out.println(root.getValue());
+//            traverse(root.next());
+//        }
     }
 }

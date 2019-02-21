@@ -22,5 +22,25 @@ public class Main {
         list.removeItem(new Item("4"));
         list.traverse(list.getRoot());
         list.removeItem(new Item("7"));
+
+
+        SearchTree tree = new SearchTree(null);
+        tree.traverse(tree.getRoot());
+        //stringData = "Moscow SPeterburg Kirov Moscow Krasnoyarsk Omsk Ork Novosibirsk Kaliningrad";
+        stringData = "1 2 3 4 5 6 7 8 9";
+        data = stringData.split(" ");
+        for(String s : data){
+            Item item = new Item(s);
+            tree.addItem(item);
+        }
+        tree.traverse(tree.getRoot());
+        tree.removeItem(new Item("3"));
+        tree.traverse(tree.getRoot());
+        tree.removeItem(new Item("10"));
+        tree.traverse(tree.getRoot());
+        tree.removeItem(new Item("4"));
+        tree.traverse(tree.getRoot());
+        tree.removeItem(new Item("7"));
+
     }
 }
