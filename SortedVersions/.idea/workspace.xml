@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec457c8c-f4c1-4da1-81b5-08d0bce2b31a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/Accessible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/ExtendedPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/PrivateClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/SIBtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/SomeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/jv_lp_01/TruePrivateClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adventure/Adventure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/src/com/jv_lp_01/MapProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Collections/src/com/jv_lp_01/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameTest2/.idea/libraries/NewPackageSample.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameTest2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameTest2/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java-Collections-Sets-Challenge-Part-3-Source-code/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewPackageSample/.idea/artifacts/NewPackageSample_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewPackageSample/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewPackageSample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewPackageSample/src/com/example/game/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewPackageSample/src/com/example/game/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewPackageSample/src/com/example/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/src/com/jv_lp_01/ScopeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/src/com/jv_lp_01/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/src/com/jv_lp_01/x/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeriesPackageGen/.idea/artifacts/SeriesPackageGen_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeriesPackageGen/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeriesPackageGen/src/com/example/seriesDemoPackage/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeriesPackageTester/.idea/libraries/SeriesPackageGen.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeriesPackageTester/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/DogMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/HeavenlyBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/Labrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/SetChallenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/SetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/SolarSystemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetsAndHashSets/src/com/jv_lp_01/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jv_lp_01/MainChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jv_lp_01/StockItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jv_lp_01/StockList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NamingConvPakgsEtc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NamingConvPakgsEtc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NamingConvPakgsEtc/src/com/jv_lp_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NamingConvPakgsEtc/src/com/jv_lp_01/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec457c8c-f4c1-4da1-81b5-08d0bce2b31a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +85,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/Basket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="146">
               <caret line="62" column="63" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
             </state>
           </provider>
@@ -220,7 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551048201103" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551048202657" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,7 +209,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1296" height="1010" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -281,7 +223,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,7 +308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/Basket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="146">
           <caret line="62" column="63" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
         </state>
       </provider>
