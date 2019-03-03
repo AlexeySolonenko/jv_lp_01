@@ -1,0 +1,28 @@
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<DialogPane fx:controller="com.sample.todolist.DialogController"
+            xmlns:fx="http://javafx.com/fxml"
+
+>
+    <headerText>
+        We could put instrucitons here
+    </headerText>
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="Short description: " GridPane.columnIndex="0" GridPane.rowIndex="0">
+            </Label>
+            <TextField fx:id="shortDescriptionField" GridPane.columnIndex="1" GridPane.rowIndex="0">
+            </TextField>
+            <Label text="Details: " GridPane.columnIndex="0" GridPane.rowIndex="1">
+            </Label>
+            <TextArea fx:id="detailsArea" GridPane.columnIndex="1" GridPane.rowIndex="1"
+            wrapText="true"
+            >
+            </TextArea>
+            <Label text="Deadline: " GridPane.columnIndex="0" GridPane.rowIndex="2">
+            </Label>
+            <DatePicker fx:id="deadlinePicker" GridPane.columnIndex="1" GridPane.rowIndex="2">
+            </DatePicker>
+        </GridPane>
+    </content>
+</DialogPane>

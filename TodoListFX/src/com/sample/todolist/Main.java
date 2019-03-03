@@ -1,10 +1,13 @@
 package com.sample.todolist;
 
+import com.sample.todolist.datamodel.TodoData;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+
+import java.io.IOException;
 
 public class Main extends Application {
 
@@ -17,7 +20,28 @@ public class Main extends Application {
     }
 
 
+
     public static void main(String[] args) {
         launch(args);
+    }
+
+    @Override
+    public void stop() throws Exception {
+        try{
+            TodoData.getInstance().storeTodoITems();
+        }catch(IOException e){
+            System.out.println(e.getMessage());
+        }
+        //super.stop();
+    }
+
+    @Override
+    public void init() throws Exception {
+        try{
+            TodoData.getInstance().loadTodoItems();
+        }catch(IOException e){
+            System.out.println(e.getMessage());
+        }
+        //super.init();
     }
 }

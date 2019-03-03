@@ -1,0 +1,11 @@
+mail birthday Card	BU A 30TH BIRHTDAY CARD FOR ILYA	30-Mar-2019
+Doctors appointment	SEE DOCTOR IGOR AT 123 STREET 	21-May-2019
+Finish design proposal for client	A PROPOSAL IS REQUIRED IN NEW FORMAT 	11-Apr-2019
+Pickup Ivan at the train station	ARRIVING AT 4 APRIL 17:18	04-Apr-2019
+Cooking lecture	Lecture on making boiled eggs	07-Mar-2019
+Cooking lecture frying	Lecture on frying potatos	22-Mar-2019
+item deu to tomorrow	Dentist appointment	03-Mar-2019
+due in the past	due in the past	03-Dec-2018
+Early March Task	My Task	04-Dec-2018
+Future item	Future item	28-Mar-2019
+today item	today item test	02-Mar-2019
