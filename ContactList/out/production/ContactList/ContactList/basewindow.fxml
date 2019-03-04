@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.BorderPane?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.control.TextField?>
+<BorderPane fx:id="mainBorderPain" prefHeight="640.0" prefWidth="480.0" fx:controller="ContactList.Controller"
+            xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <top>
+        <VBox>
+            <MenuBar>
+                <Menu text="Menu">
+                    <items>
+                        <MenuItem text="Add" onAction="#addContact"></MenuItem>
+                        <MenuItem text="Edit" onAction="#editContact"></MenuItem>
+                        <MenuItem text="Save" onAction="#saveContact"></MenuItem>
+                        <MenuItem text="Delete" onAction="#deleteContact"></MenuItem>
+                        <SeparatorMenuItem></SeparatorMenuItem>
+                        <MenuItem text="Exit" onAction="#exitApplication"></MenuItem>
+                    </items>
+                </Menu>
+            </MenuBar>
+            <ToolBar>
+                <HBox>
+                    <Button onAction="#addContact"
+                    >
+                        <tooltip>
+                            <Tooltip text="Add a new Todo Item"></Tooltip>
+                        </tooltip>
+                        <graphic>
+                            <ImageView>
+                                <Image url="@/toolbarButtonGraphics/general/New24.gif"/>
+                            </ImageView>
+                        </graphic>
+                    </Button>
+                    <Button onAction="#editContact"
+                    >
+                        <tooltip>
+                            <Tooltip text="Edit Contact"></Tooltip>
+                        </tooltip>
+                        <graphic>
+                            <ImageView>
+                                <Image url="@/toolbarButtonGraphics/general/Edit24.gif"/>
+                            </ImageView>
+                        </graphic>
+                    </Button>
+                    <Button onAction="#saveContact"
+                    >
+                        <tooltip>
+                            <Tooltip text="Save Contact"></Tooltip>
+                        </tooltip>
+                        <graphic>
+                            <ImageView>
+                                <Image url="@/toolbarButtonGraphics/general/Save24.gif"/>
+                            </ImageView>
+                        </graphic>
+                    </Button>
+                    <Button onAction="#deleteContact"
+                    >
+                        <tooltip>
+                            <Tooltip text="Delete Contact"></Tooltip>
+                        </tooltip>
+                        <graphic>
+                            <ImageView>
+                                <Image url="@/toolbarButtonGraphics/general/Delete24.gif"/>
+                            </ImageView>
+                        </graphic>
+                    </Button>
+                </HBox>
+            </ToolBar>
+        </VBox>
+    </top>
+    <center>
+        <VBox>
+            <TableView fx:id="tableView" prefHeight="200.0" prefWidth="379.0" BorderPane.alignment="CENTER">
+                <columns>
+                    <!--<TableColumn prefWidth="86.0" text="First Name"/>-->
+                    <!--<TableColumn prefWidth="64.0" text="Last Name"/>-->
+                    <!--<TableColumn prefWidth="123.0" text="Phone Number"/>-->
+                    <!--<TableColumn prefWidth="74.0" text="Notes"/>-->
+                    <TableColumn fx:id="firstName" text="First Name"/>
+                    <TableColumn fx:id="lastName" text="Last Name"/>
+                    <TableColumn fx:id="phoneNumber" text="Phone Number"/>
+                    <TableColumn fx:id="notes" text="Notes"/>
+                </columns>
+            </TableView>
+            <HBox>
+                <TextField fx:id="addFirstName"></TextField>
+                <TextField fx:id="addLastName"></TextField>
+                <TextField fx:id="addPhoneNumber"></TextField>
+                <TextField fx:id="addNotes"></TextField>
+            </HBox>
+        </VBox>
+    </center>
+</BorderPane>

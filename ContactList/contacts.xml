@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>1</first_name>
+	<last_name>1</last_name>
+	<phone_number>1</phone_number>
+	<notes>1</notes>
+</contact>
+<contact>
+	<first_name>sdfsad</first_name>
+	<last_name>2asdf</last_name>
+	<phone_number>2asdf</phone_number>
+	<notes>2sadf</notes>
+</contact>
+<contact>
+	<first_name>First Name 001 Rev 01</first_name>
+	<last_name>Last Name 001</last_name>
+	<phone_number>Phone Number 001</phone_number>
+	<notes>Notes 001</notes>
+</contact>
+<contact>
+	<first_name>First Name 002</first_name>
+	<last_name>Last Name 002</last_name>
+	<phone_number>Phone Number 002</phone_number>
+	<notes>Notes 002</notes>
+</contact>
+<contact>
+	<first_name>First Name 003</first_name>
+	<last_name>Last Name 003</last_name>
+	<phone_number>Phone Number 003</phone_number>
+	<notes>Notes 003</notes>
+</contact>
+</contacts>

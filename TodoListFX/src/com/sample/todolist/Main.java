@@ -27,9 +27,9 @@ public class Main extends Application {
 
     @Override
     public void stop() throws Exception {
-        try{
+        try {
             TodoData.getInstance().storeTodoITems();
-        }catch(IOException e){
+        } catch(IOException e) {
             System.out.println(e.getMessage());
         }
         //super.stop();
