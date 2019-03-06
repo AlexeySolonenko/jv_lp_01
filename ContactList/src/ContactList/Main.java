@@ -12,7 +12,7 @@ public class Main extends Application {
 
     /**
      * TODO a useful way for improvement is to make the cells editable - but to study first the doc on table view\
-     * TODO to add confirmations for deletion and to proceed to the next chapter 
+     * TODO to add confirmations for deletion and to proceed to the next chapter
      *
      * @param primaryStage
      * @throws Exception
