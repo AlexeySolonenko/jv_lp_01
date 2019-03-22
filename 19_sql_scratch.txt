@@ -1,0 +1,89 @@
+SELECT ar.name, al.name, s.track, s.title from songs s
+INNER JOIN albums al on s.album = al._id
+INNER JOIN artists ar on al.artist = ar._id
+WHERE s.title LIKE '%doctor%'
+ORDER BY ar.name,al.name,s.track;
+
+
+CREATE VIEW artist_list AS
+SELECT ar.name, al.name, s.track, s.title from songs s
+INNER JOIN albums al on s.album = al._id
+INNER JOIN artists ar on al.artist = ar._id
+WHERE s.title LIKE '%doctor%'
+ORDER BY ar.name,al.name,s.track;
+
+#CHALLENGE 1
+select s.title
+from songs s 
+inner join albums al on al._id = s.album
+where al.name like '%forbidden%'
+order by title;
+
+#CHALLENGE 2
+
+select  s.track, al.name, s.title
+from songs s 
+inner join albums al on al._id = s.album
+where al.name like '%forbidden%'
+order by track;
+
+#CHALLENGE 3
+select  /*ar.name*/ al.name, s.title
+from songs s 
+inner join albums al on al._id = s.album
+inner join artists ar on ar._id = al.artist
+where ar.name like '%deep purple%'
+order by al.name, title;
+
+#CHALLENGE 4
+select  ar.name, al.name, s.title
+from songs s 
+inner join albums al on al._id = s.album
+inner join artists ar on ar._id = al.artist
+where ar.name like '%kitten%'
+order by al.name, title;
+
+update artists set name = "One Kitten" where name = "Mehitabel";
+
+
+#CHALLENGE 6
+select  s.title
+from songs s 
+inner join albums al on al._id = s.album
+inner join artists ar on ar._id = al.artist
+where ar.name like '%aerosmith%'
+order by title;
+
+#CHALLENGE 7
+select  count(s.title) as title_count
+from songs s 
+inner join albums al on al._id = s.album
+inner join artists ar on ar._id = al.artist
+where ar.name like '%aerosmith%'
+order by title;
+
+#CHALLENGE 8
+select  distinct s.title
+from songs s 
+inner join albums al on al._id = s.album
+inner join artists ar on ar._id = al.artist
+where ar.name like '%aerosmith%'
+order by title;
+
+
+#CHALLENGE 9
+select  count(distinct s.title) as title_count
+from songs s 
+inner join albums al on al._id = s.album
+inner join artists ar on ar._id = al.artist
+where ar.name like '%aerosmith%'
+order by title;
+
+
+#CHALLENGE 10
+select  count(distinct ar.name) as artists
+from songs s 
+inner join albums al on al._id = s.album
+inner join artists ar on ar._id = al.artist
+where ar.name like '%aerosmith%'
+order by title;

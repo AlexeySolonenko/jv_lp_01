@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa9dc9f4-85b3-42ca-bb4b-6b4149dd624d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/PaintJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/PoolArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a13302junitchall/src/com/jv_lp_01/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a13302junitchall/src/com/jv_lp_01/UtilitiesRemovePairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a13302junitchall/src/com/jv_lp_01/UtilitiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a16281streams/src/com/timbuchalka/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a16281streams/src/com/timbuchalka/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/src/com/jv_lp_01/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/src/com/jv_lp_01/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/src/com/jv_lp_01/BankAccountTestParametrized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/libraries/sqlite_jdbc_3_27_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/libraries/sqlite_jdbc_3_27_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Datasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/SongArtist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/libraries/sqlite_jdbc_3_27_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Datasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/SongArtist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jv_lp_01/Echoer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/libraries/JTransforms_3_1_with_dependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../v19Debugger/src/com/jv_lp_01/StringUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a16273lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a16273lambda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a16273lambda/src/com/timbuchalka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a16273lambda/src/com/timbuchalka/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding>
+                <marker date="1553111617442" expanded="true" signature="343:649" ph="..." />
+                <marker date="1553111617442" expanded="true" signature="345:649" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/Echoer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/jv_lp_01/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jv_lp_01/Echoer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1359" />
+    <option name="width" value="654" />
+    <option name="height" value="1001" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="a20343server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a20343server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="a20343server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a20343server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="a20343server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a20343server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jv_lp_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553112959027" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jv_lp_01.Main" />
+      <module name="a20343server" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa9dc9f4-85b3-42ca-bb4b-6b4149dd624d" name="Default Changelist" comment="" />
+      <created>1553026237340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553026237340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1359" y="0" width="654" height="1001" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3131313" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28225806" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976957" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../codingExc02/src/com/jv_lp_01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CodingExcersices01/src/com/jv_lp_01/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <marker date="1553111617442" expanded="true" signature="343:649" ph="..." />
+            <marker date="1553111617442" expanded="true" signature="345:649" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jv_lp_01/Echoer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
