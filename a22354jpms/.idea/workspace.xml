@@ -2,220 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7211bf5f-0698-4ae5-a339-01c2550642c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../19_sql_scratch.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/CodeExcercise03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/PaintJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/PoolArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeExcercise03/src/com/jv_lp_01/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/a13302junitchall.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/src/com/jv_lp_01/Utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/src/com/jv_lp_01/UtilitiesRemovePairsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a13302junitchall/src/com/jv_lp_01/UtilitiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/Streams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/src/com/timbuchalka/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/src/com/timbuchalka/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a16281streams/src/com/timbuchalka/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/a17286RegexOdear.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a17286RegexOdear/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/a18298jUnit1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/src/com/jv_lp_01/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/src/com/jv_lp_01/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/src/com/jv_lp_01/BankAccountTestParametrized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a18298jUnit1/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/libraries/sqlite_jdbc_3_27_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/a19320testdb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19320testdb/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/libraries/sqlite_jdbc_3_27_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/a19323jdbcMusic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Datasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19323jdbcMusic/src/com/jv_lp_01/model/SongArtist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/libraries/sqlite_jdbc_3_27_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/a19336musicUI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/out/production/a19336musicUI/sample/main.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/main.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Datasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a19336musicUI/src/sample/model/SongArtist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/a20342Server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20342Server/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/a20343client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343client/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/a20343server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/src/com/jv_lp_01/Echoer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20343server/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/a20346udp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udp/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/a20346udpServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20346udpServer/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/a20347highLevApi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/src/com/jv_lp_01/ApacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../a20347highLevApi/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_27_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a22354jpms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.common/academy.learnprogramming.common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.db/academy.learnprogramming.db.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.db/src/academy/learnprogramming/db/Datasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.db/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.ui/academy.learnprogramming.ui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.ui/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.ui/src/ui/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.ui/src/ui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/academy.learnprogramming.ui/src/ui/main.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/academy.learnprogramming.ui/ui/main.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/libraries/JTransforms_3_1_with_dependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/src/com/jv_lp_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/src/com/jv_lp_01/StringUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v19Debugger/v19Debugger.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.~lock.java_w_file.odt#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a16273lambda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../a16273lambda/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../a16273lambda/src/com/timbuchalka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../a16273lambda/src/com/timbuchalka/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_w_file.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../java_w_file.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academy.learnprogramming.ui/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/academy.learnprogramming.ui/src/module-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -232,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academy.learnprogramming.ui/src/ui/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="145">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -247,20 +36,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academy.learnprogramming.ui/src/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -268,17 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Artist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Album.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -314,10 +94,10 @@
         <option value="$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/db/Datasource.java" />
         <option value="$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/ui/Controller.java" />
         <option value="$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/ui/Main.java" />
-        <option value="$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java" />
         <option value="$PROJECT_DIR$/academy.learnprogramming.ui/src/ui/Main.java" />
         <option value="$PROJECT_DIR$/academy.learnprogramming.db/src/module-info.java" />
         <option value="$PROJECT_DIR$/academy.learnprogramming.ui/src/module-info.java" />
+        <option value="$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java" />
       </list>
     </option>
   </component>
@@ -364,30 +144,6 @@
               <item name="a22354jpms" type="462c0819:PsiDirectoryNode" />
               <item name="academy.learnprogramming.common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="a22354jpms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a22354jpms" type="462c0819:PsiDirectoryNode" />
-              <item name="academy.learnprogramming.common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="a22354jpms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a22354jpms" type="462c0819:PsiDirectoryNode" />
-              <item name="academy.learnprogramming.common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="learnprogramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="a22354jpms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="a22354jpms" type="462c0819:PsiDirectoryNode" />
-              <item name="academy.learnprogramming.common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="learnprogramming" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="a22354jpms" type="b2602c69:ProjectViewProjectNode" />
@@ -464,7 +220,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553284433320" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553284782111" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/sqlite-jdbc-3.21.0.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -559,7 +315,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3511327" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3511327" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -567,7 +323,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3295325" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,16 +370,6 @@
     <entry file="file://$PROJECT_DIR$/academy.learnprogramming.db/academy.learnprogramming.db.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/academy.learnprogramming.common.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Album.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/academy.learnprogramming.ui/academy.learnprogramming.ui.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -641,13 +387,6 @@
       <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Artist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/academy.learnprogramming.db/src/academy/learnprogramming/db/Datasource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -655,17 +394,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java">
+    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.ui/src/ui/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="145">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.ui/src/ui/Main.java">
+    <entry file="jar://C:/JavaLibs/javafx-sdk-11.0.2/lib/src.zip!/javafx.controls/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.ui/src/module-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/academy.learnprogramming.common.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -676,10 +432,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.ui/src/module-info.java">
+    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/academy/learnprogramming/common/Artist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academy.learnprogramming.common/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>

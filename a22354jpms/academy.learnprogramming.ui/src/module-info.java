@@ -1,6 +1,6 @@
 module academy.learnprogramming.ui {
 
-    requires javafx.base;
+    //requires javafx.base;
     requires javafx.controls;
     requires javafx.fxml;
     requires academy.learnprogramming.db;
